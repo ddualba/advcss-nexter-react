@@ -4,7 +4,7 @@ import Realtors from './components/Realtors';
 import FeatureList from './components/FeatureList';
 import StoryPictures from './components/StoryPictures';
 import StoryContent from './components/StoryContent';
-import Homes from './components/Homes';
+import HomeList from './components/HomeList';
 import Gallery from './components/Gallery';
 import Footer from './components/Footer';
 
@@ -13,15 +13,15 @@ import './App.scss';
 function App() {
   return (
     <div className='container'>
-      <Sidebar />
+      <Sidebar /> {/* [ wip ] */}
       <Header />
       <Realtors />
       <FeatureList /> {/* [x] */}
-      <StoryPictures />
-      <StoryContent />
-      <Homes />
-      <Gallery />
-      <Footer />
+      <StoryPictures /> {/* [x] */}
+      <StoryContent /> {/* [x] */}
+      <HomeList /> {/* [x] */}
+      <Gallery /> {/* [x] */}
+      <Footer /> {/* [x] */}
     </div>
   );
 }
