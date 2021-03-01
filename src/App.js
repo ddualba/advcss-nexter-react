@@ -13,9 +13,9 @@ import './App.scss';
 function App() {
   return (
     <div className='container'>
-      <Sidebar /> {/* [ wip ] */}
-      <Header />
-      <Realtors />
+      <Sidebar /> {/* [x] */}
+      <Header /> {/* [x] */}
+      <Realtors /> {/* [ wip ] */}
       <FeatureList /> {/* [x] */}
       <StoryPictures /> {/* [x] */}
       <StoryContent /> {/* [x] */}
