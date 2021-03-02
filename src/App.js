@@ -13,15 +13,15 @@ import './App.scss';
 function App() {
   return (
     <div className='container'>
-      <Sidebar /> {/* [x] */}
-      <Header /> {/* [x] */}
-      <Realtors /> {/* [ wip ] */}
-      <FeatureList /> {/* [x] */}
-      <StoryPictures /> {/* [x] */}
-      <StoryContent /> {/* [x] */}
-      <HomeList /> {/* [x] */}
-      <Gallery /> {/* [x] */}
-      <Footer /> {/* [x] */}
+      <Sidebar />
+      <Header />
+      <Realtors />
+      <FeatureList />
+      <StoryPictures />
+      <StoryContent />
+      <HomeList />
+      <Gallery />
+      <Footer />
     </div>
   );
 }
