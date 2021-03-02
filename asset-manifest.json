@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/advcss-nexter-react/static/css/main.5dad15cb.chunk.css",
+    "main.js": "/advcss-nexter-react/static/js/main.2760469a.chunk.js",
+    "main.js.map": "/advcss-nexter-react/static/js/main.2760469a.chunk.js.map",
+    "runtime-main.js": "/advcss-nexter-react/static/js/runtime-main.32a50074.js",
+    "runtime-main.js.map": "/advcss-nexter-react/static/js/runtime-main.32a50074.js.map",
+    "static/js/2.7da258a4.chunk.js": "/advcss-nexter-react/static/js/2.7da258a4.chunk.js",
+    "static/js/2.7da258a4.chunk.js.map": "/advcss-nexter-react/static/js/2.7da258a4.chunk.js.map",
+    "index.html": "/advcss-nexter-react/index.html",
+    "static/css/main.5dad15cb.chunk.css.map": "/advcss-nexter-react/static/css/main.5dad15cb.chunk.css.map",
+    "static/js/2.7da258a4.chunk.js.LICENSE.txt": "/advcss-nexter-react/static/js/2.7da258a4.chunk.js.LICENSE.txt",
+    "static/media/Story.scss": "/advcss-nexter-react/static/media/back.61e1025c.jpg",
+    "static/media/Header.scss": "/advcss-nexter-react/static/media/hero.fceecff8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a50074.js",
+    "static/js/2.7da258a4.chunk.js",
+    "static/css/main.5dad15cb.chunk.css",
+    "static/js/main.2760469a.chunk.js"
+  ]
+}
